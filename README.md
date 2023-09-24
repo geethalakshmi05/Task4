@@ -1,5 +1,3 @@
-index.html:
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,6 +31,8 @@ index.html:
     <script src="app.js"></script>
 </body>
 </html>
+
+
 
 
 
